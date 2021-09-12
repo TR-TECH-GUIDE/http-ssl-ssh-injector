@@ -26,7 +26,7 @@ past your data into file settings.ini
 
 (root is required in android )
 
-[+] - git clone https://github.com/abdoxfox/http-ssl-ssh-injector.git
+[+] - git clone https://github.com/tr-tech-guide/http-ssl-ssh-injector.git
 
 # steps :
 
@@ -52,8 +52,5 @@ past your data into file settings.ini
 * note : to stop the script press CTRL + C
 
 ![image](https://user-images.githubusercontent.com/46646744/121225175-2c082600-c881-11eb-9c82-27fc2f4200a1.png)
-
-
-screenshots from : @megasniff_v2 (thanks a lot bro)
 
 
